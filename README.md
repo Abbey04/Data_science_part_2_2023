@@ -2,9 +2,9 @@
 
 ### Massimiliano Izzo 
 
-Materials for [Python Programming for Data Science WOW Course](https://www.conted.ox.ac.uk/courses/python-programming-for-data-science-part-1?code=O21P656COW) - **this page will be updated as the course progresses**.
+Materials for [Python Programming for Data Science WOW Course](https://www.conted.ox.ac.uk/courses/python-programming-for-data-science-part-2?code=O21P656COW) - **this page will be updated as the course progresses**.
 
-The class workspace on **Slack** is https://pp4ds-ox.slack.com. I encourage you to ask questions should you have them in the Slack channel incase your classmates can help. Massi (your tutor; massimiliano.izzo@conted.ox.ac.uk) will also check Slack and provide support where possible. Download Slack from: https://slack.com/get
+The class workspace on **Slack** is https://pp4ds-ox.slack.com. I encourage you to ask questions should you have them in the Slack channel incase your classmates can help. Nick (your tutor; nick.day@conted.ox.ac.uk) will also check Slack and provide support where possible. Download Slack from: https://slack.com/get
 
 If you do not wish to use slack you can use Canvas to contact me and other students. 
 
@@ -80,18 +80,18 @@ git reset --hard origin/master
 ## Week 2: Data Science Pipeline for machine learning
 
 * Lecture notes (face to face course): [download](https://tinyurl.com/2p9xzj57)
-* Live Demo: The Kings County Dataset (see `live-demos` and `datasets` directory)
+* Exercise: The Kings County Dataset (see `live-demos` and `datasets` directory)
 
 ## Week 3: Regression
 
 * Lecture notes (face to face course): [download](https://tinyurl.com/6e3c993n)
-* Live Demo: The Kings County Dataset (same as the week before)
+* Exercise: The Kings County Dataset (same as the week before)
 * First assignment (face-to-face course): see the `assignments` directory.
 
 ## Week 4: Intro to Classification
 
 * Lecture notes (face to face course): [download](https://tinyurl.com/4nk5kmst)
-* Live Demo: The MNIST Dataset (see `live-demos-*` and `datasets` directory)
+* Exercise: The MNIST Dataset (see `live-demos-*` and `datasets` directory)
 
 ## Week 5: More Classification
 
@@ -100,30 +100,30 @@ git reset --hard origin/master
 ## Week 6: Decision Trees. Ensemble Methods. 
 
 * Lecture notes (face to face course): [download](https://tinyurl.com/ye2x3xuz)
-* Live Demo: Decision Trees with the IRIS dataset (see `live-demos-*` and `datasets` directory)
-* Live Demo: Ensemble Methods (see `live-demos-*` and `datasets` directory)
+* Exercise: Decision Trees with the IRIS dataset (see `live-demos-*` and `datasets` directory)
+* Exercise: Ensemble Methods (see `live-demos-*` and `datasets` directory)
 
 ## Week 7. Hyperparameter Tuning. Dimensionality Reduction. 
 
 * Lecture notes (face to face course): [download](https://tinyurl.com/2hxjp7sr)
-* Live Demo: Dimensionality Reduction. PCA. UMAP. (see `live-demos-*` and `datasets` directory)
+* Exercise: Dimensionality Reduction. PCA. UMAP. (see `live-demos-*` and `datasets` directory)
 
 
 ## Week 8: Unsupervised Learning. Intro to Neural Networks.
 
 * Lecture notes (face to face course): [download](https://tinyurl.com/2dx6ac5j)
-* Live Demo: Unsupervised Learning. Clustering (see `live-demos-*` and `datasets` directory)
+* Exercise: Unsupervised Learning. Clustering (see `live-demos-*` and `datasets` directory)
 
 
 ## Week 9: Fully-connected Neural Networks. Deep Learning Intro
 
 * Lecture notes (face to face course): [download](https://tinyurl.com/f5t4kmyr)
-* Live Demo: Intro to Neural Networks (see `live-demos-*` and `datasets` directory)
-* Live Demo: Training Deep Learning Models (see `live-demos-*` and `datasets` directory)
+* Exercise: Intro to Neural Networks (see `live-demos-*` and `datasets` directory)
+* Exercise: Training Deep Learning Models (see `live-demos-*` and `datasets` directory)
 
 
 ## Week 10: CNNs, RNNs and final remarks
 
 * Lecture notes (face to face course): [download](https://tinyurl.com/uj97cv77)
-* Live Demo: Convolutional Neural Networks (see `live-demos-*` and `datasets` directory)
-* Live Demo: Recurrent Neural Networks (see `live-demos-*` and `datasets` directory)
+* Exercise: Convolutional Neural Networks (see `live-demos-*` and `datasets` directory)
+* Exercise: Recurrent Neural Networks (see `live-demos-*` and `datasets` directory)
