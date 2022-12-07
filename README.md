@@ -4,7 +4,7 @@
 
 Materials for [Python Programming for Data Science WOW Course](https://www.conted.ox.ac.uk/courses/python-programming-for-data-science-part-2?code=O21P656COW) - **this page will be updated as the course progresses**.
 
-The class workspace on **Slack** is https://pp4ds-ox.slack.com. I encourage you to ask questions should you have them in the Slack channel incase your classmates can help. Nick (your tutor; nick.day@conted.ox.ac.uk) will also check Slack and provide support where possible. Download Slack from: https://slack.com/get
+I recommend using the Course Chat feature or the discussion forums in Canvas, or alternatively, you're welcome to set up group chats and workspaces elsewhere (Slack, WhatsApp) etc. I encourage you to ask questions should you have them in these channels incase your classmates can help. Nick (your tutor; nick.day@conted.ox.ac.uk) will also check the Canvas channels and provide support where possible. 
 
 If you do not wish to use slack you can use Canvas to contact me and other students. 
 
