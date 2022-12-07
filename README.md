@@ -1,6 +1,6 @@
 ## Python Programming for Data Science II <img src="oudce_logo.png" align="right"/>
 
-### Massimiliano Izzo 
+### Massimiliano Izzo & Nick Day 
 
 Materials for [Python Programming for Data Science WOW Course](https://www.conted.ox.ac.uk/courses/python-programming-for-data-science-part-2?code=O21P656COW) - **this page will be updated as the course progresses**.
 
